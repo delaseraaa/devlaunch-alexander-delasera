@@ -9,10 +9,4 @@ como software en 2009.
  que es un registro digital descentralizado donde todas las transacciones
   son verificadas y almacenadas de forma segura.
 
-  A diferencia de las monedas tradicionales, Bitcoin
-   no tiene una forma física, como billetes o monedas.
-    Su valor proviene de la confianza de los usuarios en su sistema, 
-    en la escasez de la moneda
-     (hay un límite de 21 millones de bitcoins) y en la seguridad de su red. 
-     Las personas pueden comprar, vender, intercambiar o guardar bitcoins 
-  como una inversión o usarlos como medio de pago.
+ 
