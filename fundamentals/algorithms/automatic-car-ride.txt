@@ -1,0 +1,22 @@
+AUTOMATIC CAR RIDE
+
+proporciona una explicacion detallada en un archivo .txt de las acciones que realizarias al prepararte para conducir 
+un coche automatico 
+
+este ejercicio esta diseñado para ayudarte a entender los conceptos basicos de los algoritmos al darte un ejemplo
+del mundo real sobre como llevar tu coche a dar un paseo.
+
+SOLUCION: 
+
+Dirigirme al coche
+Abrir puerta del coche 
+Sentarme en el asiento del coche 
+Presionar freno
+Ingresar llave del coche o buscar boton de arranque
+Girar llave u oprimir boton de arranque 
+buscar freno de mano 
+quitar o desactivar freno de mano
+buscar zona de marchas
+desactivar el modo parking
+actrivar el modo D o RUN...
+fin
