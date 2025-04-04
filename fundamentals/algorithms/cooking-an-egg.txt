@@ -1,0 +1,20 @@
+COOKING AN EGG 
+
+Proporciona una explicacion detallada en un archivo .txt las acciones que realizarioas al cocinar un huevo
+
+Inicio
+Ir a cocinar
+Prender disco de cocinar
+Buscar sarten
+Poner sarten en el disco de cocina que esta prendido
+Poner aceite al sarten
+Esperar que caliente el disco 
+si esta caliente abrir huevo
+poner huevo en el sarten
+esperar 3 minutos
+agarrar espatula y darle vuelta
+esperar otros 3 minutos para que se cocine el otro lado del huevo
+sacar huevo
+apagar cocina 
+servir
+y comer 
