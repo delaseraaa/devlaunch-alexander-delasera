@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/delaseraaa/devlaunch-alexander-delasera/issues"
   },
-  "homepage": "https://github.com/delaseraaa/devlaunch-alexander-delasera#readme"
+  "homepage": "https://github.com/delaseraaa/devlaunch-alexander-delasera#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
