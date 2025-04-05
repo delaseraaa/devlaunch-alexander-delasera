@@ -1,0 +1,20 @@
+{
+  "name": "devlaunch-alexander-delasera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delaseraaa/devlaunch-alexander-delasera.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delaseraaa/devlaunch-alexander-delasera/issues"
+  },
+  "homepage": "https://github.com/delaseraaa/devlaunch-alexander-delasera#readme"
+}
