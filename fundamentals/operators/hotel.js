@@ -5,6 +5,7 @@ que incluye un descuento de 5%.
 El programa debe solicitar al huesped el numero de noches que paso en el hotel para calcular la factura final 
 Si el usuario ingresa que se quedo 5 noches, la salida sera: $475.00
 */
+
 const prompt = require('prompt-sync')();
 
 const precioPorNoche = 100
