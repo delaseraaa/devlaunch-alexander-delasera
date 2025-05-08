@@ -49,13 +49,14 @@ class Fan {
         this.color = color;
     }
 
-    public getColor(): FanColor {
+    public getColor(): FanColor { 
         return this.color;
     }
 }
 
-const fan1 = new Fan(3, 'medium', 'black');
-console.log(fan1.getSpeed());  // Output: 3
+const fan1 = new Fan(3, 'medium', 'black'); 
+console.log(fan1.getSpeed());  
 
 fan1.setColor('white');
-console.log(fan1.getColor());  // Output: white
+console.log(fan1.getColor());  
+
