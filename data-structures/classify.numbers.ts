@@ -8,9 +8,7 @@ Verificando en cada iteracion si ese numero es divisible por 2, Si un numero es 
 se clasifica como par o inpar 
 
 Importante que la funcion creada devuelva la cadena de valores juntos y formateados en un solo string 
-donde para cada iteracion habra un salto de linea 
-
-NO es valido que la funcion contenga ningun console.log dentro, solo es posible afuera */
+donde para cada iteracion habra un salto de linea  */
 
 for (let i = 0; i <= 9; i++) { 
 
